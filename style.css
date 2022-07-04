@@ -2,3 +2,11 @@ body {
     text-align: center;
     background-color: lightblue;
 }
+
+li {
+    font-size: large;
+}
+
+li:hover {
+    color: yellow;
+}
